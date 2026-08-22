@@ -1,131 +1,118 @@
 <div align="center">
 
-```
-    _____ ______           _____          
-   |_   _|| ___ \         /  ___|         
-     | |  | |_/ /_ __ __ _\ `--.  ___  ___ 
-     | |  | ___ \| '__/ _` |`--. \/ _ \/ __|
-     | |  | |_/ /| | | (_| |/\__/ /  __/\__ \
-     \_/  \____/ |_|  \__,_|\____/ \___||___/
-                                            
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=220&section=header&text=Welcome%20to%20Ibrar's%20GitHub&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Co-Founder%20@%20Inbyo%20Tech&descAlignY=58&descSize=16" width="100%"/>
 
-**Full-Stack Software Engineer | Django • React • Next.js | Founder @Inbyo Tech**
+<br/>
+
+[![Website](https://img.shields.io/badge/-inbyotech.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://inbyotech.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrarbaloch)
+[![Email](https://img.shields.io/badge/-Contact-000000?style=for-the-badge&logo=gmail&logoColor=white)](https://inbyotech.com)
 
 </div>
 
----
+<br/>
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> About Me
+
+```yaml
+name: "Ibrar Ul Haq Baloch"
+role: "Full-Stack Software Engineer"
+specialization: ["Django", "React.js", "Next.js"]
+current_venture: "Co-Founder @ Inbyo Tech"
+focus: "Building scalable web products & digital solutions"
+fun_fact: "Turning ideas into production-ready software, one commit at a time 🚀"
+```
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+**Hey there! 👋 I'm Ibrar**, a Full-Stack Software Engineer specializing in **Django**, **React.js**, and **Next.js**. I love architecting clean backends, crafting smooth frontend experiences, and shipping products end-to-end.
+
+- 🚀 Co-Founder of **[Inbyo Tech](https://inbyotech.com)** — a software agency building modern digital products
+- 🧩 Passionate about scalable architecture, clean APIs, and pixel-perfect UI
+- 🌱 Constantly exploring the evolving JS/React & Python ecosystem
+- 🤝 Open to collaborations, freelance projects & tech partnerships
+- 📫 Reach out via **[inbyotech.com](https://inbyotech.com)** or **[LinkedIn](https://linkedin.com/in/ibrarbaloch)**
+
+</td>
+<td width="35%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="28"> Technologies
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibrarbaloch)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ibrarbaloch)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=globe&logoColor=white)](https://inbyotech.com)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+**Backend**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+**Database & Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 </div>
 
----
+<br/>
 
-## About Me
-
-I'm a full-stack software engineer specializing in building modern web applications with **Django**, **React**, and **Next.js**. Recently graduated and actively working on bringing ideas to life through clean code and scalable architecture.
-
-Currently co-founding **Inbyo Tech**, where we help startups and businesses launch their digital products—from MVPs to production-ready SaaS platforms.
-
-**Focused on:** Writing code that works, solving real problems, and building products people actually use.
-
----
-
-## What I Do
-
-```
-├── Full-Stack Web Applications
-│   └── Django backends + React/Next.js frontends
-├── SaaS Product Development
-│   └── MVP to production-ready platforms
-├── REST APIs & Microservices
-│   └── Scalable backend systems with Django
-├── Business Solutions
-│   └── Custom software and e-commerce platforms
-└── Technical Consulting
-    └── Architecture planning and code review
-```
-
----
-
-## Technologies
-
-**Languages:**
-[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
-
-**Backend:**
-[![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)](https://www.djangoproject.com)
-[![DRF](https://img.shields.io/badge/DRF-092E20?style=flat-square&logo=django&logoColor=white)](https://www.django-rest-framework.org)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)
-
-**Frontend:**
-[![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)](https://react.dev)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com)
-
-**Tools & DevOps:**
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com)
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com)
-[![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)](https://www.linux.org)
-
----
-
-## GitHub Statistics
+## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="28"> GitHub Statistics
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrarbaloch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=E6EDF3)](https://github.com/ibrarbaloch)
+<img src="https://github-readme-stats.vercel.app/api?username=ibrarbaloch&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrarbaloch&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="49%"/>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrarbaloch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&text_color=E6EDF3)](https://github.com/ibrarbaloch)
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrarbaloch&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrarbaloch&theme=react-dark&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff" width="49%"/>
 
 </div>
 
----
+> **Note:** Replace `ibrarbaloch` in the stat card URLs above with your exact GitHub username so the widgets pull your real data.
 
-## Featured Projects
+<br/>
 
-Add your best projects here. Format:
-
-```
-🔗 Project Name
-   Description of what it does and the tech stack
-   → [Repository](link) | [Live Demo](link)
-```
-
-**Examples to replace:**
-
-- **Ecommerce Platform** — Full-stack Django + React application with Stripe integration → [Repository](#) | [Demo](#)
-- **SaaS Dashboard** — Next.js app with real-time analytics and user management → [Repository](#) | [Live](#)
-- **REST API** — Django REST Framework API with JWT authentication → [Repository](#)
-
----
-
-## Let's Connect
-
-I'm open to:
-
-- **Freelance Projects** — Full-stack development, APIs, SaaS products
-- **Collaborations** — Contributing to interesting projects
-- **Opportunities** — Startup partnerships, technical co-founder roles
-
-**Get in touch:**
-
-- 📧 Email: [your.email@example.com]
-- 💼 LinkedIn: [linkedin.com/in/ibrarbaloch](https://linkedin.com/in/ibrarbaloch)
-- 🌐 Website: [inbyotech.com](https://inbyotech.com)
-
----
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> Featured Work
 
 <div align="center">
 
-**Built with clean code and a passion for solving problems.**
+[![Inbyo Tech](https://img.shields.io/badge/🌐%20Visit-Inbyo%20Tech-1a1a1a?style=for-the-badge)](https://inbyotech.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 💬 Let's Connect & Build Something Great
+
+[![Website](https://img.shields.io/badge/Inbyo%20Tech-inbyotech.com-black?style=flat-square&logo=vercel)](https://inbyotech.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-black?style=flat-square&logo=linkedin)](https://linkedin.com/in/ibrarbaloch)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=100&section=footer" width="100%"/>
 
 </div>
