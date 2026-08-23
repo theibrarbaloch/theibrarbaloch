@@ -82,13 +82,13 @@ fun_fact: "Turning ideas into production-ready software, one commit at a time ðŸ
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ibrarbaloch&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrarbaloch&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=theibrarbaloch&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&count_private=true" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=theibrarbaloch&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="49%"/>
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrarbaloch&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrarbaloch&theme=react-dark&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theibrarbaloch&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theibrarbaloch&theme=react-dark&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff" width="49%"/>
 
 </div>
 
