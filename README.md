@@ -87,8 +87,8 @@ fun_fact: "Turning ideas into production-ready software, one commit at a time ğŸ
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrarbaloch&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrarbaloch&theme=react-dark&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theibrarbaloch&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=theibrarbaloch&theme=react-dark&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff" width="49%"/>
 
 </div>
 
