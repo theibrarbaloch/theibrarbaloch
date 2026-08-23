@@ -59,10 +59,10 @@ status: "Shipping code, one commit at a time 🚀"
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=theibrarbaloch&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&count_private=true" width="49%"/>
+<img src="https://github-readme-stats-sandy-omega-78.vercel.app/api?username=theibrarbaloch&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=ffffff&text_color=c9d1d9&count_private=true" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=theibrarbaloch&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theibrarbaloch&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" width="49%"/>
+<img src="https://github-readme-stats-sandy-omega-78.vercel.app/api/top-langs/?username=theibrarbaloch&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" width="49%"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=theibrarbaloch&theme=react-dark&hide_border=true&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff" width="49%"/>
 
 </div>
@@ -73,7 +73,7 @@ status: "Shipping code, one commit at a time 🚀"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=theibrarbaloch&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+<img src="https://github-profile-trophy-kohl-theta.vercel.app/?username=theibrarbaloch&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 
 </div>
 
@@ -91,7 +91,7 @@ Once you have a real repo to showcase, replace this block with a pinned-repo car
 (swap YOUR_REPO_NAME for the actual repo, must be public):
 
 <a href="https://github.com/theibrarbaloch/YOUR_REPO_NAME">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=theibrarbaloch&repo=YOUR_REPO_NAME&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
+<img src="https://github-readme-stats-sandy-omega-78.vercel.app/api/pin/?username=theibrarbaloch&repo=YOUR_REPO_NAME&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
 </a>
 -->
 
@@ -137,7 +137,7 @@ This README uses live widgets that pull data straight from your GitHub account, 
 
 1. **Repo name:** Create a repo named exactly `theibrarbaloch/theibrarbaloch` (must match your username) and place this file as `README.md` in it — that's the special repo GitHub renders on your profile page.
 2. **Profile views & followers badges:** Work automatically once the repo is public — no setup needed.
-3. **Stats / streak / top languages / activity graph / trophies:** All already point to `theibrarbaloch` — no changes needed unless you rename your GitHub account. These widgets only render inside an actual public GitHub repo page — they'll show as broken in local previews (VS Code, image viewers, etc.) since those don't fetch live data the same way GitHub does. Push it and check the real profile page before worrying about broken icons.
+3. **Stats / streak / top languages / activity graph / trophies:** All already point to `theibrarbaloch` — no changes needed unless you rename your GitHub account. The stats, top-languages, and trophy widgets now run on your own private Vercel deployments (not the shared public ones), so they won't go down from other people's traffic. These widgets only fully render inside an actual public GitHub repo page — local previews (VS Code, image viewers, etc.) may still show them as broken since those don't fetch live data the same way GitHub does. Push it and check the real profile page to confirm.
 4. **Featured Project pin:** Currently just two badge links (safe, always works). Once you have a real public repo to showcase, uncomment the pinned-repo card in that section and swap in your repo name — a pin card pointing at a repo that doesn't exist yet is what was causing the broken image.
 5. **Contribution snake animation:** Commented out for now — it points to a file that only exists *after* the GitHub Action below has run once, which is why it showed broken. Add this workflow file at `.github/workflows/snake.yml` in your profile repo, let it run once (check the Actions tab), then uncomment the Contribution Snake section:
 
