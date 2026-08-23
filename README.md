@@ -73,7 +73,7 @@ status: "Shipping code, one commit at a time 🚀"
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=theibrarbaloch&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=theibrarbaloch&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
 
 </div>
 
@@ -83,26 +83,35 @@ status: "Shipping code, one commit at a time 🚀"
 
 <div align="center">
 
-<a href="https://inbyotech.com">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=theibrarbaloch&repo=inbyo-tech&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
-</a>
+[![Inbyo Tech](https://img.shields.io/badge/🌐%20Inbyo%20Tech-Visit%20Website-1a1a1a?style=for-the-badge)](https://inbyotech.com)
+[![Portfolio](https://img.shields.io/badge/🚀%20Portfolio-View%20Work-1a1a1a?style=for-the-badge)](https://theibrarbaloch.dpdns.org)
 
-*Replace `inbyo-tech` above with your actual repo name to pin it — or delete this block if you'd rather pin repos manually from your GitHub profile settings.*
+<!--
+Once you have a real repo to showcase, replace this block with a pinned-repo card like below
+(swap YOUR_REPO_NAME for the actual repo, must be public):
+
+<a href="https://github.com/theibrarbaloch/YOUR_REPO_NAME">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=theibrarbaloch&repo=YOUR_REPO_NAME&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
+</a>
+-->
 
 </div>
 
 <br/>
 
+<!--
 ## 📈 Contribution Snake
+
+Uncomment this section only AFTER you've added the GitHub Action from the setup notes below
+and it has run at least once — otherwise the image below will show as broken, since the
+output branch/file won't exist yet.
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/theibrarbaloch/theibrarbaloch/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
-<sub>⚙️ Powered by a GitHub Action — see setup note below.</sub>
-
 </div>
-
+-->
 <br/>
 
 ## 💬 Let's Connect & Build Something Great
@@ -128,8 +137,9 @@ This README uses live widgets that pull data straight from your GitHub account, 
 
 1. **Repo name:** Create a repo named exactly `theibrarbaloch/theibrarbaloch` (must match your username) and place this file as `README.md` in it — that's the special repo GitHub renders on your profile page.
 2. **Profile views & followers badges:** Work automatically once the repo is public — no setup needed.
-3. **Stats / streak / top languages / activity graph / trophies:** All already point to `theibrarbaloch` — no changes needed unless you rename your GitHub account.
-4. **Contribution snake animation:** Requires a small one-time GitHub Action setup (adds an animated snake eating your contribution graph). Add this workflow file at `.github/workflows/snake.yml` in your profile repo:
+3. **Stats / streak / top languages / activity graph / trophies:** All already point to `theibrarbaloch` — no changes needed unless you rename your GitHub account. These widgets only render inside an actual public GitHub repo page — they'll show as broken in local previews (VS Code, image viewers, etc.) since those don't fetch live data the same way GitHub does. Push it and check the real profile page before worrying about broken icons.
+4. **Featured Project pin:** Currently just two badge links (safe, always works). Once you have a real public repo to showcase, uncomment the pinned-repo card in that section and swap in your repo name — a pin card pointing at a repo that doesn't exist yet is what was causing the broken image.
+5. **Contribution snake animation:** Commented out for now — it points to a file that only exists *after* the GitHub Action below has run once, which is why it showed broken. Add this workflow file at `.github/workflows/snake.yml` in your profile repo, let it run once (check the Actions tab), then uncomment the Contribution Snake section:
 
    ```yaml
    name: Generate Snake
@@ -155,7 +165,6 @@ This README uses live widgets that pull data straight from your GitHub account, 
              GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
    ```
 
-5. **Pinned project card:** Swap `repo=inbyo-tech` for your real repository name, or remove that block and use GitHub's native "Pin repositories" feature instead.
 6. **Long-term maintenance:** Because almost everything here (stats, streak, languages, trophies, snake, views) is generated live from your activity, this file needs almost no future edits — just update the "About Me" text and Featured Project section as your work evolves.
 
 </details>
