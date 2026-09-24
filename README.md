@@ -31,7 +31,7 @@ specialization: ["Django", "React.js", "Next.js"]
 current_venture: "Co-Founder @ Inbyo Tech"
 portfolio: "theibrarbaloch.dpdns.org"
 focus: "Building scalable web products & digital solutions"
-status: "Shipping code, one commit at a time 🚀"
+status: "Shipping code, one commit at a time"
 ```
 
 **Hey there! 👋 I'm Ibrar**, a Full-Stack Software Engineer specializing in **Django**, **React.js**, and **Next.js**. I love architecting clean backends, crafting smooth frontend experiences, and shipping products end-to-end.
