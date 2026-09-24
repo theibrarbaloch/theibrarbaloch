@@ -79,12 +79,12 @@ status: "Shipping code, one commit at a time"
 
 <br/>
 
-## 🚀 Featured Project
+## Featured Project
 
 <div align="center">
 
 [![Inbyo Tech](https://img.shields.io/badge/🌐%20Inbyo%20Tech-Visit%20Website-1a1a1a?style=for-the-badge)](https://inbyotech.com)
-[![Portfolio](https://img.shields.io/badge/🚀%20Portfolio-View%20Work-1a1a1a?style=for-the-badge)](https://theibrarbaloch.dpdns.org)
+[![Portfolio](https://img.shields.io/badge/%20Portfolio-View%20Work-1a1a1a?style=for-the-badge)](https://theibrarbaloch.dpdns.org)
 
 <!--
 Once you have a real repo to showcase, replace this block with a pinned-repo card like below
@@ -125,46 +125,3 @@ output branch/file won't exist yet.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=100&section=footer" width="100%"/>
 
 </div>
-
----
-
-<details>
-<summary><b>⚙️ Setup notes (click to expand) — read before publishing</b></summary>
-
-<br/>
-
-This README uses live widgets that pull data straight from your GitHub account, so it updates itself automatically as you code — no manual edits needed for years. A few one-time setup steps:
-
-1. **Repo name:** Create a repo named exactly `theibrarbaloch/theibrarbaloch` (must match your username) and place this file as `README.md` in it — that's the special repo GitHub renders on your profile page.
-2. **Profile views & followers badges:** Work automatically once the repo is public — no setup needed.
-3. **Stats / streak / top languages / activity graph / trophies:** All already point to `theibrarbaloch` — no changes needed unless you rename your GitHub account. The stats, top-languages, and trophy widgets now run on your own private Vercel deployments (not the shared public ones), so they won't go down from other people's traffic. These widgets only fully render inside an actual public GitHub repo page — local previews (VS Code, image viewers, etc.) may still show them as broken since those don't fetch live data the same way GitHub does. Push it and check the real profile page to confirm.
-4. **Featured Project pin:** Currently just two badge links (safe, always works). Once you have a real public repo to showcase, uncomment the pinned-repo card in that section and swap in your repo name — a pin card pointing at a repo that doesn't exist yet is what was causing the broken image.
-5. **Contribution snake animation:** Commented out for now — it points to a file that only exists *after* the GitHub Action below has run once, which is why it showed broken. Add this workflow file at `.github/workflows/snake.yml` in your profile repo, let it run once (check the Actions tab), then uncomment the Contribution Snake section:
-
-   ```yaml
-   name: Generate Snake
-   on:
-     schedule:
-       - cron: "0 0 * * *"
-     workflow_dispatch:
-     push:
-       branches: [ main ]
-   jobs:
-     generate:
-       runs-on: ubuntu-latest
-       steps:
-         - uses: Platane/snk@v3
-           with:
-             github_user_name: theibrarbaloch
-             outputs: dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-         - uses: crazy-max/ghaction-github-pages@v4
-           with:
-             target_branch: output
-             build_dir: dist
-           env:
-             GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-   ```
-
-6. **Long-term maintenance:** Because almost everything here (stats, streak, languages, trophies, snake, views) is generated live from your activity, this file needs almost no future edits — just update the "About Me" text and Featured Project section as your work evolves.
-
-</details>
