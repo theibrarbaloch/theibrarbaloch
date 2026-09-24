@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a1a&height=220&section=header&text=Welcome%20to%20Ibrar's%20GitHub&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20Co-Founder%20@%20Inbyo%20Tech&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://theibrarbaloch.dpdns.org">
-<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Software+Engineer;Django+%7C+React.js+%7C+Next.js+Developer;Co-Founder+%40+Inbyo+Tech;Building+Scalable+Web+Products+Code&center=true&width=600&height=45&color=ffffff&vCenter=true&size=20&pause=1500&background=00000000" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Software+Engineer;Django+%7C+React.js+%7C+Next.js+Developer;Co-Founder+%40+Inbyo+Tech;Building+Scalable+Web+Products+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&color=ffffff&vCenter=true&size=20&pause=1500&background=00000000" />
 </a>
 
 <br/><br/>
